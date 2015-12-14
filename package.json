@@ -5,11 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run": "node"
+    "start": "node index.js"
   },
   "author": "Eneko Lakasta @enekid",
   "license": "ISC",
   "dependencies": {
+    "q": "^1.4.1",
     "soap": "^0.11.0",
     "xml2js": "^0.4.15"
   }
