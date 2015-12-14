@@ -10,6 +10,7 @@
   "author": "Eneko Lakasta @enekid",
   "license": "ISC",
   "dependencies": {
+    "async": "^1.5.0",
     "q": "^1.4.1",
     "soap": "^0.11.0",
     "xml2js": "^0.4.15"
