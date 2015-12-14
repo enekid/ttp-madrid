@@ -1,0 +1,16 @@
+{
+  "name": "ttp-madrid",
+  "version": "0.0.1",
+  "description": "Tarjeta de transportes de Madrid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node"
+  },
+  "author": "Eneko Lakasta @enekid",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^0.11.0",
+    "xml2js": "^0.4.15"
+  }
+}
